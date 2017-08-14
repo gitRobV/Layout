@@ -1,0 +1,22 @@
+nav {
+    width: 19%;
+    display: inline-block;
+    background-color: white;
+    vertical-align: top;
+    margin-top: 25px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    background-color: grey;
+    margin: 10px;
+}

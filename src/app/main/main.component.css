@@ -1,0 +1,9 @@
+section {
+    display: inline-block;
+    width: 75%;
+    vertical-align: top;
+    background-color: white;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding:15px;
+}
